@@ -5,7 +5,7 @@ import { headerStyles } from "../../styles/styles";
 const Header = ({ notifications, setNotifications }) => {
   return (
     <div style={headerStyles.header}>
-      <h1 style={headerStyles.title}>30 Days Weight Loss</h1>
+      <h1 style={headerStyles.title}>try</h1>
 
       <button
         onClick={() => setNotifications(!notifications)}
